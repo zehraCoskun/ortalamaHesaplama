@@ -1,0 +1,15 @@
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/bin/Debug/net6.0/ortalamaHesaplama
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/bin/Debug/net6.0/ortalamaHesaplama.deps.json
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/bin/Debug/net6.0/ortalamaHesaplama.runtimeconfig.json
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/bin/Debug/net6.0/ortalamaHesaplama.dll
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/bin/Debug/net6.0/ortalamaHesaplama.pdb
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.csproj.AssemblyReference.cache
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.AssemblyInfoInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.AssemblyInfo.cs
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.csproj.CoreCompileInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.dll
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/refint/ortalamaHesaplama.dll
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.pdb
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ortalamaHesaplama.genruntimeconfig.cache
+/Users/rabiazehraunal/Desktop/pratikler/ortalamaHesaplama/obj/Debug/net6.0/ref/ortalamaHesaplama.dll
